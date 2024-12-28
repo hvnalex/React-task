@@ -2,7 +2,7 @@ import React from 'react';
 import reportWebVitals from './reportWebVitals';
 
 const GroupMembers = () => {
-  const members = ['Alice', 'Bob', 'Charlie', 'David', 'Eve'];
+  const members = ['H', 'b', 'c', 'D', 'E'];
 
   return (
     <div>
